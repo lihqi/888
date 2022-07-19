@@ -1,0 +1,20 @@
+{
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "ahooks": "3.1.11",
+    "antd": "4.17.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
